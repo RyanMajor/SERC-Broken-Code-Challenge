@@ -1,7 +1,7 @@
 # Pete's Pizza - Scenario
 Pete has opened his first store in Bangor County Down and is offering a limited variety of pizzas to their customers. 
 
-Pete has asked a local development company to create a simple till system to allow customers to login and calculate how much their orders will cost. 
+Pete has asked a local development company to create a simple till system to allow customers to login and calculate how much their orders will cost. He has also requested that the developed system is user friendly and should consider that some staff and customers may struggle with the new system. Therefor the system should make full use of appropriate message prompts when exiting and clearing. 
 
 ## Pete offers the following variety of pizzas:-
 
