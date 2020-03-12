@@ -1,0 +1,12 @@
+D:\Users\Ryan\Downloads\PetesPizza\PetesPizza\bin\Debug\PetesPizza.exe.config
+D:\Users\Ryan\Downloads\PetesPizza\PetesPizza\bin\Debug\PetesPizza.exe
+D:\Users\Ryan\Downloads\PetesPizza\PetesPizza\bin\Debug\PetesPizza.pdb
+D:\Users\Ryan\Downloads\PetesPizza\PetesPizza\obj\Debug\PetesPizza.csprojAssemblyReference.cache
+D:\Users\Ryan\Downloads\PetesPizza\PetesPizza\obj\Debug\PetesPizza.Properties.Resources.resources
+D:\Users\Ryan\Downloads\PetesPizza\PetesPizza\obj\Debug\PetesPizza.csproj.GenerateResource.cache
+D:\Users\Ryan\Downloads\PetesPizza\PetesPizza\obj\Debug\PetesPizza.exe
+D:\Users\Ryan\Downloads\PetesPizza\PetesPizza\obj\Debug\PetesPizza.pdb
+D:\Users\Ryan\Downloads\PetesPizza\PetesPizza\obj\Debug\PetesPizza.frmLogin.resources
+D:\Users\Ryan\Downloads\PetesPizza\PetesPizza\obj\Debug\PetesPizza.frmMainMenu.resources
+D:\Users\Ryan\Downloads\PetesPizza\PetesPizza\obj\Debug\PetesPizza.frmInvoice.resources
+D:\Users\Ryan\Downloads\PetesPizza\PetesPizza\obj\Debug\PetesPizza.frmOrder.resources
